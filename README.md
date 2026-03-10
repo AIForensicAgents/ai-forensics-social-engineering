@@ -1,3 +1,5 @@
+![Cover Image](assets/cover-image.png)
+
 <!-- 
   og:title: AI Forensics — Mass Social Engineering & Manipulation Campaigns
   og:description: Comprehensive forensic analysis framework for detecting, investigating, and mitigating autonomous AI-driven mass social engineering attacks, deepfake identity networks, and coordinated inauthentic behavior campaigns.
